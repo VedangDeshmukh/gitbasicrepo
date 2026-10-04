@@ -5,7 +5,7 @@ export class createUserPage{
   
 }
 
-  public get address(){
+  public getaddress(){
     
   }
 
