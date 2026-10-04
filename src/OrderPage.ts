@@ -5,4 +5,7 @@ export class OrderPage{
 
     }
 
+    public searchOrder(){
+        
+    }
 }
