@@ -10,7 +10,10 @@ export class createUserPage{
         let city;
         let zipcode;
         let add1;
+
+        console.log("display a address details")
   }
+
 
 
 }
