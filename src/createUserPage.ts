@@ -7,7 +7,9 @@ export class createUserPage{
 }
 
   public getaddress(){
-    
+        let city;
+        let zipcode;
+        let add1;
   }
 
 
