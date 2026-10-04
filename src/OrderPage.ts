@@ -6,6 +6,10 @@ export class OrderPage{
     }
 
     public searchOrder(){
+
+    }
+
+    public filterOrder(){
         
     }
 }
