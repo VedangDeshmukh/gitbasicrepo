@@ -7,4 +7,13 @@ export class LoginPage{
 
     }
 
+
+    public createuser(){
+
+    }
+
+    public forgetpassword(){
+        
+    }
+
 }
